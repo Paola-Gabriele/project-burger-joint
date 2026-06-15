@@ -18,7 +18,15 @@ header {
 }
 
 .hero {
-    height: 70vh;
+    height: 75vh;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.text-hero {
+    display: flex;
+    flex-direction: column;
 }
 
 .title-hero-credits {
@@ -39,4 +47,9 @@ header {
     font-weight: 400;
     margin-left: 7rem;
     margin-top: 1rem;
+}
+
+.img-credits {
+    margin-right: 2rem;
+    width: 525px;
 }
