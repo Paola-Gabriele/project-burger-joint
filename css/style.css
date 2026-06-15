@@ -16,3 +16,27 @@ header {
     margin-left: 2rem;
     width: 120px;
 }
+
+.hero {
+    height: 70vh;
+}
+
+.title-hero-credits {
+    font-size: 4.5em;
+    margin-left: 3.5rem;
+    margin-top: 4.5rem;
+}
+
+.text-hero-credits {
+    font-size: 1.5rem;
+    font-weight: bolder;
+    margin-left: 5rem;
+    margin-top: 1rem;
+}
+
+.subtext-hero-credits {
+    font-size: 1.25em;
+    font-weight: 400;
+    margin-left: 7rem;
+    margin-top: 1rem;
+}
