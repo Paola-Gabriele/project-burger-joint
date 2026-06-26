@@ -36,6 +36,10 @@ header {
     margin-top: 4.5rem;
 }
 
+.color {
+    color: #FF9610;
+}
+
 .text-hero-credits {
     font-size: 1.5rem;
     font-weight: bolder;
