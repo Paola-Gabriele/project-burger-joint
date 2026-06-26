@@ -53,3 +53,10 @@ header {
     margin-right: 2rem;
     width: 525px;
 }
+
+.license {
+    border: 5px solid #FF9610;
+    border-radius: 8px;
+    margin: 2rem;
+    padding: 2rem;
+}
