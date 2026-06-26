@@ -60,3 +60,12 @@ header {
     margin: 2rem;
     padding: 2rem;
 }
+
+.title-license {
+    font-size: 1.75em;
+}
+
+.img-license {
+    width: 20px;
+    margin: 0 .5rem;
+}
