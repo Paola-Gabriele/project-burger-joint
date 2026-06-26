@@ -81,3 +81,8 @@ table {
     margin: 1.5rem 2.75rem;
     width: 1000px;
 }
+
+thead {
+    background-color: #FF9610;
+    font-size: 1.25rem;
+}
