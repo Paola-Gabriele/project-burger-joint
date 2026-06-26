@@ -69,3 +69,9 @@ header {
     width: 20px;
     margin: 0 .5rem;
 }
+
+.text-license {
+    font-size: 1.15rem;
+    margin-top: .5rem;
+    margin-left: 1rem;
+}
